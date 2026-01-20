@@ -1,9 +1,16 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: ["./templates/*"],
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#10b981",
+        secondary: "#0f172a",
+      },
+    },
   },
   plugins: [],
 }
-
