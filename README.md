@@ -1,6 +1,9 @@
-# Web AI Research
+# 14 Web AI Research
 
 ✨ A cutting-edge AI-powered blogging platform integrating LangChain logic with a high-performance React frontend. Featuring advanced prompt engineering foundations, sophisticated content processing, and a lightning-fast architectural core.
+
+## 🚀 Live Demo
+**[View Live on Vercel](https://14-web-ai-research.vercel.app)**
 
 ## Features
 - 🤖 Professional AI Research & Content Presentation
